@@ -21,13 +21,9 @@ This project is an **AI-powered resume screening and ranking system** that autom
 ## 📂 Project Structure
 ```
 📁 resume-screening
-│-- 📄 main.py  # Streamlit app
-│-- 📄 database.py  # Database functions
-│-- 📄 text_extraction.py  # Resume parsing functions
-│-- 📄 requirements.txt  # Dependencies
+│-- 📄 script.py  # Streamlit app
 │-- 📄 README.md  # Project documentation
-│-- 📂 data
-│   ├── resume_screening.db  # SQLite database
+│-- resume_screening.db  # SQLite database
 ```
 
 ## 📥 Installation
